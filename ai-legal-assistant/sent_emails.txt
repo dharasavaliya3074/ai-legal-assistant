@@ -1,0 +1,43 @@
+
+==================================================
+TO: rensis0405@gmail.com
+SUBJECT: 📅 Case 1212 - Deadline Reminder
+BODY:
+Dear Client,
+
+This is a reminder regarding your case:
+
+📋 Case Number: 1212
+📅 Deadline: September 15, 2025
+
+📝 Additional Message: rajvi mureder case beacuse rensi ye rajvi ne chaku mariyu
+
+Please ensure all required documents and actions are completed before the deadline.
+
+Best regards,
+Legal Assistant System
+
+TIME: 2025-09-14 23:26:56.572826
+==================================================
+
+==================================================
+TO: savaliyadhara06@gmail.com
+SUBJECT: ⚖ Case 1212 - Deadline Reminder
+BODY:
+Dear Lawyer,
+
+This is a reminder regarding case:
+
+📋 Case Number: 1212
+📅 Deadline: September 15, 2025
+👤 Client: rensis0405@gmail.com
+
+📝 Additional Message: rajvi mureder case beacuse rensi ye rajvi ne chaku mariyu
+
+Please ensure all case preparations are completed before the deadline.
+
+Best regards,
+Legal Assistant System
+
+TIME: 2025-09-14 23:27:12.876279
+==================================================
